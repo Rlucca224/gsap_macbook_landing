@@ -6,6 +6,7 @@ const NavBar = () => {
         <header>
             <nav>
                 <img src="logo.svg" alt="Apple logo" />
+
                 <ul>
                     {navLinks.map(({ label }) => (
                         <li key={label}>
