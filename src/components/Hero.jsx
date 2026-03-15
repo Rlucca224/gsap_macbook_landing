@@ -17,7 +17,7 @@ const Hero = () => {
                 <img src="/title.png" alt="MacBook Pro" />
             </div>
 
-            <video ref={videoRef} src="/videos/hero.mp4" autoPlay muted playsinline />
+            <video ref={videoRef} src="/videos/hero.mp4" autoPlay muted playsInline />
 
             <button>Buy</button>
 
