@@ -38,9 +38,3 @@ Una landing page premium inspirada en Apple, diseñada para ofrecer una experien
 - **Animaciones de Scroll:** Uso extensivo de GSAP (ScrollTrigger) para transiciones fluidas y efectos de revelado.
 - **Diseño Responsivo:** Adaptabilidad total a dispositivos móviles y escritorio usando Tailwind CSS.
 - **Rendimiento Optimizado:** Construido sobre Vite para tiempos de carga ultrarrápidos.
-
-## 🛠️ Instalación y Uso
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/Rlucca224/gsap_macbook_landing.git
